@@ -1,18 +1,5 @@
-h2 {
-  color: #5fcffc;
-  background-color: rgb(89, 151, 0);
-}
-
-button {
-  color: magenta;
-  background-color: cyan;
-}
-
-p {
-  color: olive;
-  background: rgb(255, 165, 0);
-}
-
-body {
-  background-color: #cc55ee;
+h1 {
+  text-align: center;
+  font-weight: 400;
+  text-decoration: #f78120 underline wavy;
 }
